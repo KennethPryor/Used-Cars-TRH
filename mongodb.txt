@@ -1,0 +1,1 @@
+db.cars.insert({"StockNumber": "T6234","Year": "2017","Make": "Hyundai","Model": "Elantra","Status": "Waiting on Parts","LastUpdated": "December 18 @ 4:03pm"})

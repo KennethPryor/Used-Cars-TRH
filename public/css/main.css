@@ -1,0 +1,6 @@
+#background_image {
+    background-image: url(../css/images/veloster_n_bg.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
